@@ -1,0 +1,15 @@
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\bin\Debug\net7.0\Proy_S3.exe
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\bin\Debug\net7.0\Proy_S3.deps.json
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\bin\Debug\net7.0\Proy_S3.runtimeconfig.json
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\bin\Debug\net7.0\Proy_S3.dll
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\bin\Debug\net7.0\Proy_S3.pdb
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\obj\Debug\net7.0\Proy_S3.csproj.AssemblyReference.cache
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\obj\Debug\net7.0\Proy_S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\obj\Debug\net7.0\Proy_S3.AssemblyInfoInputs.cache
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\obj\Debug\net7.0\Proy_S3.AssemblyInfo.cs
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\obj\Debug\net7.0\Proy_S3.csproj.CoreCompileInputs.cache
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\obj\Debug\net7.0\Proy_S3.dll
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\obj\Debug\net7.0\refint\Proy_S3.dll
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\obj\Debug\net7.0\Proy_S3.pdb
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\obj\Debug\net7.0\Proy_S3.genruntimeconfig.cache
+C:\Users\casti\OneDrive\Escritorio\Proyecto\Proy_S3\obj\Debug\net7.0\ref\Proy_S3.dll
